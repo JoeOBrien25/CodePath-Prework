@@ -10,8 +10,8 @@ Time spent: 1.5 hours spent in total
 
 The following **required** functionality is complete:
 
-* [] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+*  User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+*  User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* Added a party counter that can be used to change the amount of people you have in your party. When the party counter is updated the individual tip and total is updated to determine how much each member of the party owes. 
 
 ## Video Walkthrough
 
