@@ -2,9 +2,9 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Joe O'Brien
 
-Time spent: **X** hours spent in total
+Time spent: 1.5 hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered challeges with setting up my Xcode with GitHub but was able to slowly problem solve through them by solving one problem a time. I also encountered problems with getting things link between the swift code and the main storyboard. I solved this by deleting all the problematic links and relinking them which got it to work. 
 
 ## License
 
